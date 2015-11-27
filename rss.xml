@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Speilet]]></title>
+        <description><![CDATA[Speilet]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 27 Nov 2015 22:00:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[test]]></title>
+            <description><![CDATA[<article><h1>test</h1><p>Honda Accord</p></article>]]></description>
+            <link>undefinedtest/index.html</link>
+            <guid isPermaLink="false">697e9510-1ef5-45fd-9c01-cefc51d4a848</guid>
+            <pubDate>Fri, 27 Nov 2015 22:00:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
