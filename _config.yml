@@ -1,0 +1,28 @@
+name: Speilet
+favicon: null
+layout_spectrum: 0.9980279263108969
+typography_spectrum: 0.3886721187736839
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3233012326527387
+  lightness: 0.6022821012884378
+  saturation: 0.6979346529114991
+  rhythmicContrast: 0.9556681979447603
+purpose: []
