@@ -1,28 +1,40 @@
-name: Speilet
 favicon: null
-layout_spectrum: 0.5237
-typography_spectrum: 0.64534
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Speilet
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.3233012326527387
-  lightness: 0.6022821012884378
-  saturation: 0.6979346529114991
-  rhythmicContrast: 0.9556681979447603
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.6979346529114991
+  lightness: 0.6022821012884378
+  brandStrength: 0.3978495
+  brandColors:
+    - '#0E0F14'
+    - '#5A88D0'
+    - '#C6BEB3'
+    - '#D8F0F3'
+    - '#CD9154'
+  rhythmicContrast: 0.9556681979447603
+typography_spectrum: 0.7078853
+layout_spectrum: 0.5237
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
