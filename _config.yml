@@ -1,5 +1,7 @@
-favicon: null
-name: Speilet
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -29,12 +31,10 @@ color:
     - '#CD9154'
   rhythmicContrast: 0.9556681979447603
 typography_spectrum: 0.7078853
-layout_spectrum: 0.5237
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.969534
+favicon: null
+name: Speilet
